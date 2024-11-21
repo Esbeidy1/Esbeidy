@@ -27,4 +27,5 @@ Project 2: Urban Grocers: I implemented automated tests to validate the function
 🌍 Connect with me
 
 LinkedIn:https://www.linkedin.com/in/esbeidy-garcia-
+
 Email:
